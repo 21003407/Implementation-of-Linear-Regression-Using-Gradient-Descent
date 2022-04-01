@@ -2,8 +2,10 @@ AIM:
 To write a program to implement the linear regression using gradient descent.
 
 Equipments Required:
+~~~
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Moodle-Code Runner
+~~~
 ###Algorithm
 ~~~
 1.Use the standard libraries in python for Gradient Design.
