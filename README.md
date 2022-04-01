@@ -6,7 +6,7 @@ Equipments Required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ~~~
-###Algorithm
+Algorithm
 ~~~
 1.Use the standard libraries in python for Gradient Design.
 2.Upload the dataset and check any null value using .isnull() function.
