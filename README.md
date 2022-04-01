@@ -1,18 +1,21 @@
-AIM:
+###AIM:
 To write a program to implement the linear regression using gradient descent.
 
-Equipments Required:
+###Equipments Required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Moodle-Code Runner
-Algorithm
+###Algorithm
+~~~
 1.Use the standard libraries in python for Gradient Design.
 2.Upload the dataset and check any null value using .isnull() function.
 3.Declare the default values for linear regression.
 4.Calculate the loss usinng Mean Square Error.
 5.Predict the value of y.
 6.Plot the graph respect to hours and scores using scatter plot function.
+~~~
 Program:
-Program to implement the linear regression using gradient descent. Developed by: Harshavardhini M RegisterNumber: 212221240015
+~~~
+Program to implement the linear regression using gradient descent. Developed by: joans jai authers RegisterNumber: 212221240019
 
 import numpy as np
 import pandas as pd
@@ -48,10 +51,10 @@ plt.title("Study hours vs. Scores")
 plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
-Output:
-pic1
-
-pic2
+~~~
+###Output:
+![](o1.png)
+![](o2.png)
 
 Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
